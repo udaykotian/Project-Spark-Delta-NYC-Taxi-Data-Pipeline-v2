@@ -1,0 +1,17 @@
+spark_env/
+spark_env_310/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+.envspark_env/
+__pycache__/
+*.pyc
+*.parquet
+data/
+delta/
+.DS_Store
