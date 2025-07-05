@@ -1,4 +1,4 @@
-<pre><code># 🚖 End-to-End NYC Taxi Data Pipeline with Apache Spark and Delta Lake
+# 🚖 End-to-End NYC Taxi Data Pipeline with Apache Spark and Delta Lake
 
 This project implements a scalable, end-to-end data pipeline for processing and analyzing New York City (NYC) taxi trip data using **Apache Spark** and **Delta Lake**. The pipeline ingests raw data, applies transformations with performance optimizations, stores results efficiently, and demonstrates advanced features like **Change Data Feed (CDF)** and **time travel**.
 
@@ -174,11 +174,3 @@ All contributions are welcome!
 ## 📄 License
 
 Licensed under the **MIT License**. See `LICENSE` for more.
-
----
-
-## 📬 Contact
-
-- GitHub: [@udaykotian](https://github.com/udaykotian)  
-- Email: your-email@example.com *(Replace with your actual email)*
-</code></pre>
